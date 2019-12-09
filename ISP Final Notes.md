@@ -75,11 +75,11 @@
 >
 > <u>ASP.NET/JSP</u>
 >
-> ![Alt text](C:\Users\HP 3-5928\Documents\2019-Fall Classes\ISP\Notes-StudyGuides\assets\JSP-ASP.NET.PNG)
+> ![Alt text](assets\JSP-ASP.NET.PNG)
 >
 > <u>Web Server Based Distributed Computing</u>
 >
-> ![Alt text](C:\Users\HP 3-5928\Documents\2019-Fall Classes\ISP\Notes-StudyGuides\assets\WS-based-Distributed-Computing.PNG)
+> ![Alt text](assets\WS-based-Distributed-Computing.PNG)
 
 ## <u>Database</u>
 
@@ -135,18 +135,203 @@
 > - Java is strong typed
 > - Compiled and Interpreted
 > - Compiled Once and run anywhere
+> - All objects are references and it auto cleans the garbage created (System.GC)
+> - Inheritance: A child object can be treated as parent but not vice versa
 
 ### Diagrams
 
 > ![Alt text](assets/javaintermediatelanguage.png)
 >
+> - JIT Version is the same thing but instead of Java Interpreter it is JIT.
+
+## <u>JavaScript</u>
+
+### Definitions
+
 > 
 
+### Important
 
+> - JavaScript is NOT Object-Oriented because it doesn't support Polymorphism
+>
+> - Not compiled
+>
+> - Interpreted
+>
+> - Client-Side Code
+>
+> - <script>
+>
+> - Dynamically Typed (Auto Type Changing)
+>
+> - Arrays can have different type elements
+>
+> - JavaScript Pattern Matching Methods
+>
+>   1. RegExp Objects
+>   2. On a string variable
 
+### Diagrams
 
+> <u>Pattern Matching Slides</u>
+>
+> ![Alt text](assets/patternmatch.png)
+>
+> 
+>
+> ![Alt text](assets/patternmatch2.png)
+>
+> 
+>
+> ![Alt text](assets/patternmatch3.png)
 
+## <u>JSP (Java-Server-Page)</u>
 
+### Definitions
 
+> 
 
+### Important
 
+> - Server-Side
+> - Compiled
+> - Java embedded into HTML
+> - Object-Oriented
+> - Dynamically Generates Webpages
+> - Uses <%>
+> - GROSS AS FUCK AND AVOID!!
+> - 5 Steps of Web-Based server-side programming:
+>   1. Get input as text from client
+>   2. Convert text to numbers
+>   3. compute
+>   4. convert numbers to text
+>   5. send output to client
+
+### Diagrams
+
+## <u>PHP (Hypertext PreProcessor)</u>
+
+### Definitions
+
+### Important
+
+- Dynamically Typed $
+- Purely Interpreted
+- <?php?> 
+
+### Diagrams
+
+## <u>.NET</u>
+
+### Definitions
+
+>CLI (Command Line Interface)
+>
+>GUI (Graphical User Interface)
+>
+>NUI (Natural User Interface)
+>
+>IaaS (Infrastructure as a Service)
+>
+>PaaS (Platform as a Service)
+>
+>SaaS (Software as a Service)
+>
+>CLR (Common Language Runtime) - to make .NET language independent [defined as a runtime environment]
+>
+>CTS (Common Type System) - Syntax and Semantics for .NET framework to work
+>
+>Managed Code - code that follows the CTS defined standards (C++ allows multiple inheritance, Managed C++ does not)
+
+### Important
+
+> - .Net is a framework for developing OS-platform-independent, Programming-language-independent, web-enabled, distributed applications.
+> - .Net  is Object-Oriented
+
+### Diagrams
+
+> <u>MSIL Compilation (Microsoft's Java)</u>
+>
+> ![Alt text](assets/MSIL.png)
+>
+> <u>MSIL Second Form! (Independent Language)</u>
+>
+> ![Alt text](assets/MSIL2.png)
+>
+> <u>MSIL FINAL FORM!! (OS-Independent and Language-Independent)</u>
+>
+> ![Alt text](assets/MSILFinalForm!.png)
+
+## <u>Cloud Computing</u>
+
+### Definitions
+
+> Hypervisors (VMM) - virtual machine managers, the OS of the OS
+>
+> Cloud Computing - Computing technology and infrastructure offered by vendors **on demand**. 
+
+### Important
+
+> - Virtualization and Pay per Use model
+> - Two types of Hypervisors:
+>   1. Native - run directly on host hardware
+>   2. Hosted - run on host OS
+> - Advantages:
+>   1. Cost-Effective
+>   2. Maximum Resource Utilization
+>   3. Flexibility
+
+### Diagrams
+
+> <u>T1-Hypervisor (Native)</u>
+>
+> ![Alt text](assets/T1-Hypervisor.png)
+>
+> <u>T2-Hypervisor (Hosted)</u>
+>
+> ![Alt text](assets/T2-Hypervisor.png)'
+
+## <u>Ruby On Rails</u>
+
+### Definitions
+
+### Important
+
+> - Dynamically Typed
+> - Object-Oriented
+> - Interpreted
+> - Runs locally or on Server
+> - gets (cin) , puts (cout)
+> - Scalar types and arrays
+
+### Diagrams
+
+> <u>RoR Architecture</u>
+>
+> ![Alt text](assets/RoRArchitecture.png)
+
+## <u>Android Studio</u>
+
+### Definitions
+
+### Important
+
+> - HCI (input, output)
+> - Input (A/V, touch, sensors, remote, composite events (key entry))
+> - Output (screen, mirroring, VR, haptic, text (internalization))
+> - EDP (Event handlers)
+> - OOP (Android uses java based code)
+
+### Diagrams
+
+> ![Alt text](assets/AndroidAppArch.png)
+
+## <u>IOS Dev</u>
+
+### Definitions
+
+### Important
+
+### Diagrams
+
+![Alt text](assets/MVCArch.png)
