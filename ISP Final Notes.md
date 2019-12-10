@@ -32,11 +32,11 @@
 
 > <u>Traditional Compilation (Linking)</u>
 >
-> ![Alt text](assets/TraditionalComp.png)
+> ![Alt text](assets/ISP/TraditionalComp.png)
 >
 > <u>Cognition Skills</u>
 >
-> ![Alt text](assets/CognitiveSkills.png)
+> ![Alt text](assets/ISP/CognitiveSkills.png)
 
 ## <u>HTML-Web-Programming</u>
 
@@ -67,19 +67,19 @@
 
 > <u>HTML Forms</u>
 >
-> ![Alt text](assets/HTMLForms.png)
+> ![Alt text](assets/ISP/HTMLForms.png)
 >
 > <u>HTTP Packet</u>
 >
-> ![Alt text](assets/HTTPPackett.png)
+> ![Alt text](assets/ISP/HTTPPackett.png)
 >
 > <u>ASP.NET/JSP</u>
 >
-> ![Alt text](assets\JSP-ASP.NET.PNG)
+> ![Alt text](assets/ISP/JSP-ASP.NET.PNG)
 >
 > <u>Web Server Based Distributed Computing</u>
 >
-> ![Alt text](assets\WS-based-Distributed-Computing.PNG)
+> ![Alt text](assets/ISP/WS-based-Distributed-Computing.PNG)
 
 ## <u>Database</u>
 
@@ -118,7 +118,7 @@
 
 > <u>Four Tier Web Application Architecture</u>
 >
-> ![Alt text](assets/4tierapp.png)
+> ![Alt text](assets/ISP/4tierapp.png)
 
 ## <u>Java</u>
 
@@ -140,7 +140,7 @@
 
 ### Diagrams
 
-> ![Alt text](assets/javaintermediatelanguage.png)
+> ![Alt text](assets/ISP/javaintermediatelanguage.png)
 >
 > - JIT Version is the same thing but instead of Java Interpreter it is JIT.
 
@@ -175,15 +175,15 @@
 
 > <u>Pattern Matching Slides</u>
 >
-> ![Alt text](assets/patternmatch.png)
+> ![Alt text](assets/ISP/patternmatch.png)
 >
 > 
 >
-> ![Alt text](assets/patternmatch2.png)
+> ![Alt text](assets/ISP/patternmatch2.png)
 >
 > 
 >
-> ![Alt text](assets/patternmatch3.png)
+> ![Alt text](assets/ISP/patternmatch3.png)
 
 ## <u>JSP (Java-Server-Page)</u>
 
@@ -252,15 +252,15 @@
 
 > <u>MSIL Compilation (Microsoft's Java)</u>
 >
-> ![Alt text](assets/MSIL.png)
+> ![Alt text](assets/ISP/MSIL.png)
 >
 > <u>MSIL Second Form! (Independent Language)</u>
 >
-> ![Alt text](assets/MSIL2.png)
+> ![Alt text](assets/ISP/MSIL2.png)
 >
 > <u>MSIL FINAL FORM!! (OS-Independent and Language-Independent)</u>
 >
-> ![Alt text](assets/MSILFinalForm!.png)
+> ![Alt text](assets/ISP/MSILFinalForm!.png)
 
 ## <u>Cloud Computing</u>
 
@@ -285,11 +285,11 @@
 
 > <u>T1-Hypervisor (Native)</u>
 >
-> ![Alt text](assets/T1-Hypervisor.png)
+> ![Alt text](assets/ISP/T1-Hypervisor.png)
 >
 > <u>T2-Hypervisor (Hosted)</u>
 >
-> ![Alt text](assets/T2-Hypervisor.png)'
+> ![Alt text](assets/ISP/T2-Hypervisor.png)'
 
 ## <u>Ruby On Rails</u>
 
@@ -308,7 +308,7 @@
 
 > <u>RoR Architecture</u>
 >
-> ![Alt text](assets/RoRArchitecture.png)
+> ![Alt text](assets/ISP/RoRArchitecture.png)
 
 ## <u>Android Studio</u>
 
@@ -324,7 +324,7 @@
 
 ### Diagrams
 
-> ![Alt text](assets/AndroidAppArch.png)
+> ![Alt text](assets/ISP/AndroidAppArch.png)
 
 ## <u>IOS Dev</u>
 
@@ -334,4 +334,4 @@
 
 ### Diagrams
 
-![Alt text](assets/MVCArch.png)
+![Alt text](assets/ISP/MVCArch.png)
